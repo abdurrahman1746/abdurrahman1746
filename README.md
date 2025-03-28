@@ -49,13 +49,9 @@
 ## 📈 GitHub Analytics
 
 
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=abdurrahman1746&theme=dark&border_radius=10&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak"/>
-  </a>
-  
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdurrahman1746&layout=compact&theme=vision-friendly-dark&hide=html,css,scss" alt="Top Languages"/>
-  </a>
+ [![GitHub Streak](https://streak-stats.demolab.com?user=abdurrahman1746&theme=dark)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdurrahman1746&layout=compact&theme=vision-friendly-dark)]
 
 ![3D Contribution Map](https://raw.githubusercontent.com/abdurrahman1746/abdurrahman1746/main/profile-3d-contrib/profile-night-rainbow.svg)
 
