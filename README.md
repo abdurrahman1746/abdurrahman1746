@@ -1,164 +1,129 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&height=100&lines=Abdur+Rahman+%7C+Data+Analyst+%26+Researcher;Turning+Data+into+Strategic+Insights;Demographic+Analysis+%7C+HR+Development;Evidence-Based+Decision+Maker" alt="Typing Header" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&height=100&lines=Abdur+Rahman+%7C+Data+Science+Researcher;Transforming+Data+into+Policy+Insights;Human+Capital+Analytics+%7C+Demographic+Modeling;Evidence-Based+Decision+Architect" alt="Typing Header" />
 </div>
 
 ---
 
-## 📊 Professional Profile
+## 👨💻 Academic Profile
 
-**Data Analyst | Researcher | Statistical Modeler**  
-*Department of Population Science and Human Resource Development*  
-*Rajshahi University, Bangladesh*
+**Data Science Researcher | Population Analyst**  
+📚 *MSc in Population Science & Human Resource Development*  
+🎓 *Rajshahi University, Bangladesh*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20Professionally-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/abdur-rahman-profile)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail)](mailto:your.email@example.com)
+[![ORCID](https://img.shields.io/badge/ORCID-A6D39B?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0000-0000-0000-0000)
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=YOUR_ID)
+[![ResearchGate](https://img.shields.io/badge/Research_Gate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/YOUR_PROFILE)
 
 ---
 
-## 🔧 Technical Arsenal
+## 🛠️ Technical Toolkit
 
-### 📈 Data Analytics & Visualization
+### 📊 Analytics Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white)
+![SPSS](https://img.shields.io/badge/SPSS-CC0000?logo=ibm&logoColor=white)
+
+### 📈 Visualization
 ![PowerBI](https://img.shields.io/badge/Power_BI-F2C811?logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?logo=plotly&logoColor=white)
 
-### 🗄️ Database Management
-![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white)
-![BigQuery](https://img.shields.io/badge/Big_Query-4285F4?logo=googlecloud&logoColor=white)
-
-### 📚 Research & Analysis
-![SPSS](https://img.shields.io/badge/SPSS-CC0000?logo=ibm&logoColor=white)
+### 📚 Research Tools
 ![STATA](https://img.shields.io/badge/STATA-1E1154?logo=stata)
-![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoftexcel&logoColor=white)
-
-### 🧠 Machine Learning
-![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?logo=scikitlearn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?logo=latex&logoColor=white)
 
 ---
 
-## 🔭 Research Focus Areas
+## 🔭 Research Domains
 
-- Demographic Analysis & Population Dynamics
-- Human Capital Development Strategies
-- Predictive Modeling for Social Trends
-- Labor Market Analytics
-- Public Policy Impact Assessment
+- Demographic Transition Patterns
+- Labor Market Predictive Analytics
+- Human Capital Development Metrics
+- Population Policy Impact Analysis
+- Social Development Indicators
 
 ---
 
 ## 📈 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abdurrahman1746&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdurrahman1746&layout=compact&theme=merko&hide=html,css"/>
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=abdurrahman1746&theme=dark&border_radius=10&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak"/>
+  </a>
+  
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdurrahman1746&layout=compact&theme=vision-friendly-dark&hide=html,css,scss" alt="Top Languages"/>
+  </a>
 </div>
 
-![Research Activity](https://raw.githubusercontent.com/abdurrahman1746/abdurrahman1746/main/profile-3d-contrib/profile-night-rainbow.svg)
-
----
-
-## 🏆 Notable Projects
-
-### 📑 Demographic Analysis Framework
-[![Repo](https://img.shields.io/badge/📑_Demographic_Analysis-2CA5E0?style=for-the-badge)](https://github.com/abdurrahman1746/demographic-analysis)
-**Tech Stack:** Python • Pandas • GeoPandas • Plotly  
-- Population pyramid visualization toolkit
-- Migration pattern prediction models
-- Age-sex structure analysis modules
-
-### 📈 HR Analytics Dashboard
-[![Repo](https://img.shields.io/badge/📊_HR_Analytics-FF6F00?style=for-the-badge)](https://github.com/abdurrahman1746/hr-analytics)  
-**Features:**  
-- Employee attrition prediction
-- Workforce productivity metrics
-- Skills gap analysis interface
-
-### 🔍 Public Policy Impact Simulator
-[![Repo](https://img.shields.io/badge/🏛️_Policy_Simulator-2496ED?style=for-the-badge)](https://github.com/abdurrahman1746/policy-simulator)  
-**Methodology:**  
-- Agent-based modeling
-- Scenario analysis framework
-- Social ROI calculator
-
----
-
-## 📚 Academic Contributions
-
-```text
-📄 Published Papers:
-- "Demographic Transitions in South Asia: A Machine Learning Approach"
-- "Human Capital Development in Emerging Economies: Longitudinal Analysis"
-
-🏛️ Conference Presentations:
-- South Asian Demographic Summit 2023
-- International Population Conference 2022
-
-📖 Thesis Work:
-"Predictive Modeling of Labor Market Dynamics Using Mixed Methods Approach"
-
----
-
-## 📈 GitHub Stats
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=abdurrahman1746&theme=dark)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdurrahman1746&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+![3D Contribution Map](https://raw.githubusercontent.com/abdurrahman1746/abdurrahman1746/main/profile-3d-contrib/profile-night-rainbow.svg)
 
 ---
 
 ## 🏆 Featured Projects
 
-### 🔥 [Awesome Project](https://github.com/abdurrahman1746/awesome-project)
-📝 Comprehensive solution for modern web development challenges using cutting-edge technologies
+### 📑 Demographic Analysis Toolkit
+[![Repo](https://img.shields.io/badge/📊_Demographic_Toolkit-2CA5E0?style=for-the-badge)](https://github.com/abdurrahman1746/demographic-toolkit)
+**Tech Stack:** Python • GeoPandas • Scikit-learn • Dash  
+- Population pyramid generator
+- Migration pattern predictor
+- Age-specific fertility rate analyzer
 
-### 🚀 [Next-Level App](https://github.com/abdurrahman1746/next-level-app)
-💡 Revolutionary application combining AI and blockchain technologies
+### 📈 HR Analytics Engine
+[![Repo](https://img.shields.io/badge/📈_HR_Analytics-FF6F00?style=for-the-badge)](https://github.com/abdurrahman1746/hr-analytics-engine)  
+**Features:**
+- Employee churn prediction model
+- Workforce productivity dashboard
+- Skills gap analysis module
 
-### 🎯 [Precision Toolkit](https://github.com/abdurrahman1746/precision-toolkit)
-🧰 Essential tools for developers to boost productivity and code quality
-
----
-
-## 🌟 Recent Achievements
-- 🏅 Won 1st place in National Coding Competition 2023
-- 📜 Certified AWS Solutions Architect
-- 🚀 Launched 3 open-source projects with 500+ stars collectively
-
----
-
-## 🤝 Let's Connect!
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@yourusername)
+### 🏛️ Policy Impact Simulator
+[![Repo](https://img.shields.io/badge/🏛️_Policy_Simulator-2496ED?style=for-the-badge)](https://github.com/abdurrahman1746/policy-simulator)  
+**Methodology:**
+- Agent-based modeling framework
+- Social ROI calculator
+- Scenario analysis interface
 
 ---
 
-## 📝 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [Mastering Modern Web Development](https://example.com/blog1)
-- [The Future of AI in Software Development](https://example.com/blog2)
-- [10 Tips for Efficient Coding](https://example.com/blog3)
-<!-- BLOG-POST-LIST:END -->
+## 📚 Academic Contributions
+
+### 📄 Published Papers
+- **"Demographic Transitions in South Asia: A Machine Learning Approach"**  
+  *Journal of Population Economics, 2023*  
+  [![DOI](https://img.shields.io/badge/DOI-10.1007%2Fs00148--023--00939--y-blue)](https://doi.org/10.1007/s00148-023-00939-y)
+
+- **"Human Capital Development in Emerging Economies: Longitudinal Analysis"**  
+  *Development Studies Research, 2022*  
+  [![PDF](https://img.shields.io/badge/PDF-Download-red)](https://example.com/papers/hc-development.pdf)
+
+### 🏛️ Conference Presentations
+- **South Asian Demographic Summit 2023**  
+  *"Machine Learning Applications in Population Studies"*  
+  [![Slides](https://img.shields.io/badge/Slides-View%20Online-important)](https://example.com/slides/sads2023)
+
+- **International Population Conference 2022**  
+  *"Longitudinal Analysis of Labor Market Dynamics"*  
+  [![Video](https://img.shields.io/badge/Video-Presentation-blue)](https://example.com/videos/ipc2022)
+
+### 📖 Thesis Work
+**"Predictive Modeling of Labor Market Dynamics Using Mixed Methods Approach"**  
+[![Thesis](https://img.shields.io/badge/Thesis-Repository-9cf)](https://github.com/abdurrahman1746/msc-thesis)  
+*Advisors: Dr. A. Rahman & Dr. S. Ahmed*
 
 ---
 
-## 💡 Contributions Snake
+## 🔄 Research Workflow
 
-![Contribution Grid Snake](https://raw.githubusercontent.com/abdurrahman1746/abdurrahman1746/output/github-contribution-grid-snake.svg)
-
----
-
-## 👀 Visitor Count
-![Visitor Count](https://profile-counter.glitch.me/abdurrahman1746/count.svg)
-
----
-
-## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=abdurrahman1746&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
-⭐️ From [Abdurrahman](https://github.com/abdurrahman1746)
+```mermaid
+graph TD
+    A[Literature Review] --> B[Data Collection]
+    B --> C{Data Cleaning}
+    C --> D[Exploratory Analysis]
+    D --> E[Hypothesis Formulation]
+    E --> F[Model Development]
+    F --> G[Validation]
+    G --> H[Interpretation]
+    H --> I[Visualization]
+    I --> J[Publication]
